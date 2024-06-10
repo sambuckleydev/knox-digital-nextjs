@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "MarkPro";
+  src: url("/fonts/MarkPro-Bold.eot");
+  src: url("/fonts/MarkPro-Bold.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/MarkPro-Bold.woff2") format("woff2"),
+    url("/fonts/MarkPro-Bold.woff") format("woff"),
+    url("/fonts/MarkPro-Bold.ttf") format("truetype"),
+    url("/fonts/MarkPro-Bold.svg#MarkPro-Bold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MarkPro";
+  src: url("/fonts/MarkPro-Book.eot");
+  src: url("/fonts/MarkPro-Book.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/MarkPro-Book.woff2") format("woff2"),
+    url("/fonts/MarkPro-Book.woff") format("woff"),
+    url("/fonts/MarkPro-Book.ttf") format("truetype"),
+    url("/fonts/MarkPro-Book.svg#MarkPro-Book") format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MarkPro";
+  src: url("/fonts/MarkPro-Medium.eot");
+  src: url("/fonts/MarkPro-Medium.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/MarkPro-Medium.woff2") format("woff2"),
+    url("/fonts/MarkPro-Medium.woff") format("woff"),
+    url("/fonts/MarkPro-Medium.ttf") format("truetype"),
+    url("/fonts/MarkPro-Medium.svg#MarkPro-Medium") format("svg");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MarkPro";
+  src: url("/fonts/MarkPro-Normal.eot");
+  src: url("/fonts/MarkPro-Normal.eot?#iefix") format("embedded-opentype"),
+    url("/fonts/MarkPro-Normal.woff2") format("woff2"),
+    url("/fonts/MarkPro-Normal.woff") format("woff"),
+    url("/fonts/MarkPro-Normal.ttf") format("truetype"),
+    url("/fonts/MarkPro-Normal.svg#MarkPro-Normal") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
